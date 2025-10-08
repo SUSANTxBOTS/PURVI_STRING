@@ -3,11 +3,11 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-API_ID = int(getenv("API_ID","21803165"))
-API_HASH = getenv("API_HASH","05e5e695feb30e25bef47484cc006da7")
+API_ID = int(getenv("API_ID","21134445"))
+API_HASH = getenv("API_HASH","231c18ea7273824491d6bf05425ab74e")
 
-BOT_TOKEN = getenv("BOT_TOKEN")
-OWNER_ID = int(getenv("OWNER_ID","7403621976"))
+BOT_TOKEN = getenv("8018252288:AAE36WZAP1ajjheZRtYk2zU4OeMoxXonhf4")
+OWNER_ID = int(getenv("OWNER_ID","8156708830"))
 
-MONGO_DB_URI = getenv("mongodb+srv://vivek:1234567890@cluster0.c48d8ih.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
-MUST_JOIN = getenv("MUST_JOIN","WORLD_ALPHA")
+MONGO_DB_URI = getenv("mongodb+srv://dragonbytexbotz:ZYivvnFytzvM9b5l@cluster0.w4qnbpw.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+MUST_JOIN = getenv("MUST_JOIN","https://t.me/ThronexCodex")
